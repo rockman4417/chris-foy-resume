@@ -42,8 +42,8 @@ h1 {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  width: 1300px;
-  padding-left: 50px;
+  width: 100%;
+
   font-family: "Open Sans", sans-serif;
 }
 
@@ -87,5 +87,12 @@ li {
 }
 
 .content-container {
-  margin-left: 10px;
+  width: 49%;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }

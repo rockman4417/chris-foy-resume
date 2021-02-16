@@ -4,15 +4,25 @@
   height: 3px;
 }
 
+.objective {
+  color: rgb(45, 99, 200);
+  font-weight: bold;
+  font-size: 120%;
+  font-style: italic;
+  margin-top: 10px;
+}
+
 h2 {
   color: rgb(45, 99, 200);
   margin-bottom: 5px;
+  margin-left: 10px;
 }
 
 h1 {
   color: rgb(45, 99, 200);
   font-size: 210%;
   font-weight: bold;
+  margin-bottom: 0px;
 }
 
 .header-faded {
@@ -43,7 +53,7 @@ h1 {
   flex-direction: column;
   align-items: center;
   margin-top: 30px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 ul {
@@ -62,6 +72,7 @@ li {
   align-items: center;
   height: 30px;
   margin-bottom: 5px;
+  font-style: italic;
 }
 
 .title-container {
@@ -73,4 +84,8 @@ li {
 
 .education-content {
   margin-top: 5px;
+}
+
+.content-container {
+  margin-left: 10px;
 }

@@ -48,7 +48,7 @@ h1 {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  width: 1300px;
+  width: 100vw;
 
   font-family: "Open Sans", sans-serif;
 }
@@ -60,7 +60,7 @@ h1 {
   align-items: center;
   margin-top: 30px;
   margin-bottom: 20px;
-  margin-right: 60px;
+  /* margin-right: 60px; */
 }
 
 ul {

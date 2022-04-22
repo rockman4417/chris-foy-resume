@@ -1,3 +1,8 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
 .line {
   background-color: rgb(45, 99, 200);
   width: 1250px;
